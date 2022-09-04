@@ -1,0 +1,272 @@
+/*-------------------------------------- PADDING ------------------------------------*/
+.pdng_5 {
+    padding: 5px;
+}
+
+.pdng_left_0 {
+    padding-left: 0;
+}
+
+.pdng_botm_8 {
+    padding-bottom: 8px;
+}
+
+.pdng_top_8 {
+    padding-top: 8px;
+}
+
+.pdng_btm_50 {
+    padding-bottom: 50px;
+}
+
+.pdng_top_50 {
+    padding-top: 50px;
+}
+
+.pdng_0_8 {
+    padding: 0px 8px;
+}
+
+.pdng_left_right_5 {
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.pdng_lft_5{
+    padding-left: 5px;
+}
+.pdng_0 {
+    padding: 0;
+}
+.pdng_rght_0{
+    padding-right: 0;
+}
+.pdng_3_10 {
+    padding: 3px 10px;
+}
+
+/*--------------------------------- MARGIN ---------------------------------------*/
+.mrgn_10 {
+    margin: 10px;
+}
+
+.mrgn_10_0 {
+    margin: 10px 0px;
+}
+
+.mrgn_9_0 {
+    margin: 9px 0;
+}
+
+.mrgn_btm_10 {
+    margin-bottom: 10px;
+}
+
+.mrgn_0 {
+    margin: 0 !important;
+}
+
+/*----------------------------- HOME PAGE START ----------------------------------*/
+
+
+/*------------- NAVBAR START -------------*/
+
+.bg_lightblue{
+    background-color: #7EC8E3;
+    border-bottom: 1px solid #030000;
+}
+.wc{
+    text-align: center;
+    color: #000c66;
+    font-size: 20px;
+    font-style: italic;
+    font-weight: bold;
+    font-family: papyrus;
+}
+.website_crafting{
+    color: #000c66;
+    font-size: 20px;
+    font-style: italic;
+    font-weight: bold;
+    font-family: papyrus;
+}
+
+.icon_detail{
+    font-size: 20px;
+    font-family: papyrus;
+    font-style: italic;
+    color: #000c66;
+}
+.icon_style{
+    font-size: 18px;
+    font-family: papyrus;
+    font-style: italic;
+    color: #000c66;
+}
+
+.navbar_text a {
+    color: #000c66;
+    font-size: 20px;
+    font-family: papyrus;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.navbar_text a:hover {
+    color: #000c66;
+    text-decoration: none;
+}
+
+.navbar_text a:focus {
+    color: #000c66;
+    text-decoration: none;
+}
+/*--------- NAVBAR FINISHED --------------*/
+
+
+/*---------- FOOTER START ---------------*/
+.footer h3 {
+    font-style: italic;
+    font-weight: bold;
+    font-family: papyrus;
+    color: #000c66;
+}
+
+.footer span {
+    font-style: italic;
+    font-weight: bold;
+    font-family: papyrus;
+    color: #000c66;
+    font-size: 24px;
+}
+
+.footer a {
+    text-decoration: none;
+    font-style: italic;
+    font-family: papyrus;
+    color: #000c66;
+    font-size: 15px;
+    display: block;
+}
+
+.footer a:hover {
+    text-decoration: none;
+    font-style: italic;
+    font-family: papyrus;
+    color: #000c66;
+    font-size: 15px;
+    display: block;
+}
+
+.footertop_border {
+    border-top: 1px solid #ebedee;
+}
+
+footer img {
+    box-shadow: 4px 7px 11px 1px #0c0c0c;
+    margin-right: 15px;
+}
+/*--------- FOOTER FINISHED ------------*/
+
+
+/*--------- TITLE IMG START ------------*/
+.bgwithlyr{
+    background: linear-gradient(#000c668f, #080808ba), url(background_pagies/bg.jpg);
+}
+.about{
+    font-size: 22px;
+    font-family: papyrus;
+    font-style: italic;
+    font-weight: bold;
+    color: #030000;
+    text-align: center;
+    padding: 23px 0 0 0;
+}
+/*----- TITLE IMG FINISHED -----------*/
+
+
+/*---------------------------------- HOME PAGE START ---------------------------------------*/
+
+/*---------------------------------- CONTACT PAGE START ---------------------------------------*/
+
+
+/*----------- LET'S SEE TITLE START --------------------*/
+.bgimgtext {
+    position: relative;
+    
+  }
+.top_left {
+    position: absolute;
+    bottom: 61px;
+    left: 52px;
+    color: black;
+    font-size: 20px;
+    font-family: papyrus;
+    font-weight: bold;
+  }
+  
+/*----------- LET'S SEE TITLE FINISHED ------------------*/
+
+/*--------------- 3 IMG 1ST ROW START --------------------*/
+.boxshadow{
+    box-shadow: 0px 2px 14px -3px #000c66;
+}
+
+/*--------------- 3 IMG 1ST ROW FINISHED --------------------*/
+
+/*---------------- CAROUSEL START ---------------------------*/
+
+  .carousel {
+    position: relative;
+}
+  .carousel-inner {
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+}
+.carousel-item.active {
+    display: block;
+}
+.carousel-item {
+    position: relative;
+    display: none;
+    float: left;
+    width: 100%;
+    margin-right: -100%;
+}
+
+
+/*---------------- CAROUSEL START ---------------------------*/
+
+/*---------------------------------- CONTACT PAGE FINISHED ---------------------------------------*/
+
+.top_left_ad{
+    position: absolute;
+    bottom: 130px;
+    left: 54px;
+    color: black;
+    font-size: 25px;
+    font-family: papyrus;
+    font-weight: bold;
+}
+.top_left_sghighway{
+    position: absolute;
+    bottom: 78px;
+    left: 54px;
+    color: black;
+    font-size: 20px;
+    font-family: papyrus;
+}
+.top_left_gujarat{
+    position: absolute;
+    bottom: 51px;
+    left: 53px;
+    color: black;
+    font-size: 20px;
+    font-family: papyrus;
+}
+
+
+
+.lyr{
+    background-color: #0202028f;
+}
